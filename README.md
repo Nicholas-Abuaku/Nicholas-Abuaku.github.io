@@ -6,8 +6,8 @@ BSc Computer Science - University of Essex
 ## Projects
 - Kent Film Foundation
 	-  Designed and built a versatile full-stack web application to enhance the online presence and event management for the Kent Film Foundation, achieving over 2700 impressions on google search. Utilised React.js to create an engaging responsive front end interface.
- -  Created a back-end using SQLite and Laravel to handle RESTful API operations.
- -  Dockerized and hosted the back-end infrastrucute on the cloud using Railway.
+ 	-  Created a back-end using SQLite and Laravel to handle RESTful API operations.
+ 	-  Dockerized and hosted the back-end infrastrucute on the cloud using Railway.
 - PureH2O
   	- Description here
 ## Technologies
