@@ -1,6 +1,6 @@
 theme: jekyll-theme-minimal
 title: Nicholas Abuaku
-logo: assets/img/headshot.png
+logo: assets/img/headshot.jpg
 permissions:
   id-token: write
   pages: write
