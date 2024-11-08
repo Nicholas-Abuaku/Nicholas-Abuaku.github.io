@@ -1,9 +1,9 @@
-#Software Engineer
+# Software Engineer
 
-##Education
+## Education
 BSc Computer Science - University of Essex
 
-##Experience
---Kent Film Foundation
+## Experience
+-- Kent Film Foundation
 
-##Projects
+## Projects
