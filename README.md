@@ -1,2 +1,6 @@
-# Nicholas-Abuaku.github.io
-Nicholas Ameyaw Abuaku Back End Developer Portfolio
+#Software Engineer
+
+##Education
+BSc Computer Science - University of Essex
+
+##Experience
