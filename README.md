@@ -1,5 +1,5 @@
 # Software Engineer
-
+Hi! I'm a computer science graduate from the University of Essex, currently working as a coding instructor at Code Ninjas Langley, blah blah blah my education this and that, modules i took and their relevancy, as well as a brief mention of some projects maybe what you do outside of programming.
 ## Education
 BSc Computer Science - University of Essex
 
