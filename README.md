@@ -4,6 +4,6 @@
 BSc Computer Science - University of Essex
 
 ## Experience
--- Kent Film Foundation
+- Kent Film Foundation
 
 ## Projects
