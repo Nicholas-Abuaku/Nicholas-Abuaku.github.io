@@ -4,7 +4,7 @@ Hi! I'm a computer science graduate from the University of Essex, currently work
 BSc Computer Science - University of Essex
 
 ## Projects
-### Kent Film Foundation
+**Kent Film Foundation**
 -  Designed and built a versatile full-stack web application to enhance the online presence and event management for the Kent Film Foundation, achieving over 2700 impressions on google search. Utilised React.js to create an engaging responsive front end interface.
 - I also created a back-end using Laravel and SQLite to handle RESTful API operations.
 - What now
