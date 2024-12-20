@@ -1,5 +1,8 @@
 # Introduction
-Hi! I'm a computer science graduate from the University of Essex, currently working as a coding instructor at Code Ninjas Langley, blah blah blah my education this and that, modules i took and their relevancy, as well as a brief mention of some projects maybe what you do outside of programming.
+Hi There! 👋 Welcome to my GitHub portfolio.
+I'm Nicholas Abuaku, a Computer Science graduate from the University of Essex with a passion for building full-stack web applications.
+Here you will find projects that showcase my skills in various technlogies such as React, TypeScript and PostGreSQL to name a few. Check out the Technologies section below for a full overview of my technical skills.
+Feel free to explore and connect with me!
 ## Education
 BSc Computer Science - University of Essex
 
