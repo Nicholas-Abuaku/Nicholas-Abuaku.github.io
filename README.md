@@ -41,3 +41,6 @@ BSc Computer Science - University of Essex
 	<code><img width="50" src="https://github.com/marwin1991/profile-technology-icons/assets/136815194/82df4543-236b-4e45-9604-5434e3faab17" alt="SQLite" title="SQLite"/></code>
  <code><img width="50" src="https://github.com/marwin1991/profile-technology-icons/assets/76662862/dbbc299a-8356-45e4-9d2e-a6c21b4569cf" alt="php (elephpant)" title="php (elephpant)"/></code>
 	<code><img width="50" src="https://github.com/marwin1991/profile-technology-icons/assets/25181517/afcf1c98-544e-41fb-bf44-edba5e62809a" alt="Laravel" title="Laravel"/></code>
+
+## Hobbies/Interests
+When I'm not coding I enjoy PC gaming - particularly sim racing and FPS games. I also love going out for a drink with friends and exploring new spots. Additionally, I model part-time, with my proudest achievement being a recent advertising campaing with Klarna and Apple
