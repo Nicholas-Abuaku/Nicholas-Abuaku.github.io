@@ -43,4 +43,4 @@ BSc Computer Science - University of Essex
 	<code><img width="50" src="https://github.com/marwin1991/profile-technology-icons/assets/25181517/afcf1c98-544e-41fb-bf44-edba5e62809a" alt="Laravel" title="Laravel"/></code>
 
 ## Hobbies/Interests
-When I'm not coding I enjoy PC gaming - particularly sim racing and FPS games. I also love going out for a drink with friends and exploring new spots. Additionally, I model part-time, with my proudest achievement being a recent advertising campaing with Klarna and Apple
+When I'm not coding I enjoy PC gaming - particularly sim racing and FPS games. I also love going out for a drink with friends and exploring new spots. Additionally, I model part-time, with my proudest achievement being a recent advertising campaign with Klarna and Apple
