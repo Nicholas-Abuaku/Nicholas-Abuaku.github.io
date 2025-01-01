@@ -1,7 +1,7 @@
 # Introduction
 Hi There! 👋 Welcome to my GitHub portfolio.
 I'm Nicholas Abuaku, a Computer Science graduate from the University of Essex with a passion for building full-stack web applications.
-Here you will find projects that showcase my skills in various technlogies such as React, TypeScript and PostGreSQL to name a few. Check out the Technologies section below for a full overview of my technical skills.
+Here you will find projects that showcase my skills in various technlogies such as React, TypeScript and PostgreSQL to name a few. Check out the Technologies section below for a full overview of my technical skills.
 Feel free to explore and connect with me!
 ## Education
 BSc Computer Science - University of Essex
