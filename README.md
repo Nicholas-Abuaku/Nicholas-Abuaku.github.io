@@ -12,10 +12,10 @@ BSc Computer Science - University of Essex
 - Implemented a back-end using Laravel and SQLite to handle RESTful API operations.
 - Containerized and deployed the back-end to the cloud using Docker and Railway
  	
-**LetterBoxd Movie Analyser**
-  - Using Python and PyQt6, created a program that scrapes Letterboxd reviews and analyses the overall sentiment
-  - Using PyQt6 for GUI development
-  - Leveraged Pandas and Transformers libraries in a multi threaded environment to streamline data manipulation process
+**Book Logger App**
+  - Lightweight Express js REST API to handle CRUD operations
+  - React front-end to enable user to add, edit and delete books
+  - MySQL database
 
 
 ## Technologies
